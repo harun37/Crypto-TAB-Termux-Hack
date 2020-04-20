@@ -11,5 +11,4 @@ $data_boost = '{"boost_ratio":2}';
 /*Change According to Your Auth Data*/
 /*Ubah Sesuai Data Auth Kalian*/
 
-$auth[] = "isi data auth kalian";
-$auth[] = "isi data auth kalian";
+$auth[] = "gAAAAABenXS-erbkpG6sDwGlAfaEQ_QZf6hs_MxJpI793eJo95MUEwP1kGtDLnTWKwnZXy3Lz9SBNevBQ_h1_MzeA8bHjMSrvXKHabAkI2WcekGJ13JmDQk=";
