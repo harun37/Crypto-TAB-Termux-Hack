@@ -10,3 +10,7 @@
 ●`git clone https://github.com/harun37/Crypto-TAB-Termux-Hack`
 
 ●`php bot.php`
+
+# Things to Do
+
+[] `Change config.php`
