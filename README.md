@@ -14,3 +14,7 @@
 # Things to Do
 
 - [ ] `Change config.php`
+- [x] `Install git`
+- [x] `Install Php`
+- [x] `Clone repo`
+- [ ] `Run the bot.php`
