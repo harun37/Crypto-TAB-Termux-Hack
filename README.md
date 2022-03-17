@@ -1,6 +1,6 @@
 # Crypto-TAB-Termux-Hack
 
-#Installation
+# Installation
 `apt upgrade && update`
 `pip install git`
 `pip install php`
