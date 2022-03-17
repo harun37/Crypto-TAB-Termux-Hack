@@ -13,4 +13,4 @@
 
 # Things to Do
 
-[x] `Change config.php`
+- [ ] `Change config.php`
